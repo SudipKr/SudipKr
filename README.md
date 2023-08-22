@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudip😎</h1>
 <h3 align="center">Open source enthusiast.</h3>
-
+<img align="right" alt="coding"width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7-HrXy3ciNnGHaLtSVZfCwHaEK%26pid%3DApi&f=1&ipt=f859a2b461c581458a39414d318e58770294d1c23bee090951510bd13b6c2082&ipo=images">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipkr&label=Profile%20views&color=0e75b6&style=flat" alt="sudipkr" /> </p>
 
 - 🌱 I’m currently learning **Advanced Encryption, Matlab and h266 codec**
